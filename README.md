@@ -63,3 +63,8 @@ Copy code
 
 ---
 
+## Certificate
+
+This project was completed as part of an academic initiative under **IIT Guwahati**.  
+You can view the certificate here: [View Certificate](https://certificate.givemycertificate.com/c/b5ed4be4-32f5-4a98-a931-609c9899f2de)
+
