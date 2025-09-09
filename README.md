@@ -20,8 +20,11 @@ Analyze booking behavior, cancellations, revenue patterns, and customer trends t
 
 ## Project Structure
 Optimizing-Revenue-Leakages-and-Profitability-in-the-Hospitality-Sector/
+
 │── exploratory_data_analysis.ipynb # Full data analysis notebook with visualizations
+
 │── data/ # Contains the dataset used for analysis
+
 │── outputs/ # Charts and CSVs generated from the notebook
 
 yaml
